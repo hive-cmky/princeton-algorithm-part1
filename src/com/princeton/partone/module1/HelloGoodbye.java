@@ -1,3 +1,4 @@
+package com.princeton.partone.module1;
 
 public class HelloGoodbye {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package com.princeton.partone.module2;
+
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {

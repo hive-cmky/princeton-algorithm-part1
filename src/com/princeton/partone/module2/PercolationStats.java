@@ -1,3 +1,5 @@
+package com.princeton.partone.module2;
+
 import edu.princeton.cs.algs4.StdRandom;
 import edu.princeton.cs.algs4.StdStats;
 
@@ -61,7 +63,7 @@ public class PercolationStats {
     // test client
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Usage: java PercolationStats n trials");
+            System.out.println("Usage: java com.princeton.partone.module2.PercolationStats n trials");
             return;
         }
 
